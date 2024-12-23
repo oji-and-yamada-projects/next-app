@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
+=======
+  "name": "next-app",
+>>>>>>> a2e8d3523255548c53d9875834581ecb469f6a35
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +15,11 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+<<<<<<< HEAD
     "next": "15.1.2"
+=======
+    "next": "15.1.0"
+>>>>>>> a2e8d3523255548c53d9875834581ecb469f6a35
   },
   "devDependencies": {
     "typescript": "^5",
@@ -21,7 +29,15 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "eslint": "^9",
+<<<<<<< HEAD
     "eslint-config-next": "15.1.2",
     "@eslint/eslintrc": "^3"
+=======
+    "eslint-config-next": "15.1.0",
+    "@eslint/eslintrc": "^3"
+  },
+  "volta": {
+    "node": "22.11.0"
+>>>>>>> a2e8d3523255548c53d9875834581ecb469f6a35
   }
 }
